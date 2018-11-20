@@ -1,0 +1,8 @@
+Data file content:
+
+Beer Reviews data file is huge. More 300 MB of Data. 
+Was not able upload in the GitHub page even tried using git-lfs (Git large File system) to upload this. But no luck.
+Also tried uploading compressed folder csv data file, didn't work.
+
+So here is the link of Kaggle page which was used for the Project containing the data: --
+https://www.kaggle.com/rdoume/beerreviews
