@@ -27,7 +27,7 @@ Data set is collected from [Kaggle](https://www.kaggle.com/datasets). And data c
 
 ## Data
 Data contained is very huge. Not able to upload in Github  repo.
-So uploading the data's zip file ```beer_reviews.csv.zip```
+So uploading the kaggle data link in data folder  ```data/data_Kaggle_content.txt```
 
 ## Run
 
