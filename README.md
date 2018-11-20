@@ -25,6 +25,9 @@ Data set is collected from [Kaggle](https://www.kaggle.com/datasets). And data c
 - What is the overall list of Best quality beer to be selected ?
 
 
+## Data
+Data contained is very huge. Not able to upload in Github  repo.
+So uploading the data's zip file ```beer_reviews.csv.zip```
 
 ## Run
 
