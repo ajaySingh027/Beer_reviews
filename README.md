@@ -31,9 +31,11 @@ Data set is collected from [Kaggle](https://www.kaggle.com/datasets). And data c
 In a terminal or command window, navigate to the top-level project directory ```Beer_reviews/```  (that contains this README) and run one of the following commands:
 
 ```ipython notebook BeerReviews.ipynb```
+
 or
 
 ```jupyter notebook BeerReviews.ipynb```
+
 This will open the iPython Notebook software and project file in your browser.
 
 
